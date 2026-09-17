@@ -1,0 +1,9 @@
+[project]
+name = "modelling"
+version = "0.1.0"
+description = "Agent-based simulation of populations that explore, fight and form pacts"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "matplotlib>=3.11.2",
+]
